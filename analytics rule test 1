@@ -30,3 +30,5 @@ entityMappings:
         columnName: Metadata_triggertId_s
 version: 1.0.0
 kind: Scheduled
+
+
